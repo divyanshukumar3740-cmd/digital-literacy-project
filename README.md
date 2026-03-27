@@ -7,13 +7,13 @@
 In this project, I serve as a Student Digital Ambassador at VIT Bhopal. My goal is to help my peers navigate the digital world safely and professionally by building this comprehensive Digital Literacy Portfolio. This repository contains evidence of my work across five different modules, covering topics from visual communication to cybercrime awareness.
 
 ## Repository Structure
-To ensure easy navigation, this repository is organized as follows:
-* report/: Contains my full written project report (Project_Report.pdf).
-* task-1-presentation/: Contains my Digital Literacy Awareness Infographic.
-* task-2-portfolio/: Contains screenshots of my professional digital profiles.
-* task-3-platforms/: Contains proof of my coding challenge and my Google Form quiz.
-* task-4-email-etiquette/: Contains my professional email drafts and social media checklist.
-* task-5-cybercrime/: Contains my cyberbullying case study and prevention guide.
+To ensure easy navigation, this repository is organised as follows:
+* report: Contains my full written project report (Project_Report.pdf).
+* task-1-presentation: Contains my Digital Literacy Awareness Infographic.
+* task-2-portfolio: Contains screenshots of my professional digital profiles.
+* task-3-platforms: Contains proof of my coding challenge and my Google Form quiz.
+* task-4-email-etiquette: Contains my professional email drafts and social media checklist.
+* task-5-cybercrime: Contains my cyberbullying case study and prevention guide.
 
 ## Module Summaries
 * Task 1: Designed a one-page infographic using Canva to explain digital literacy and safe internet practices.
